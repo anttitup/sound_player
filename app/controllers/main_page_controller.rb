@@ -1,0 +1,2 @@
+class MainPageController < ApplicationController
+end
